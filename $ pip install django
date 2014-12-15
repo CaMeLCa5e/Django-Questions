@@ -1,0 +1,14 @@
+$ pip install django
+Downloading/unpacking django
+  Downloading Django-1.7.1-py2.py3-none-any.whl (7.4MB): 7.4MB downloaded
+Installing collected packages: django
+Successfully installed django
+Cleaning up...
+$ python 
+Python 2.7.6 (default, Sep  9 2014, 15:04:36) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import django
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named django
